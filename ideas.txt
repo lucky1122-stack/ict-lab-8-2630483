@@ -1,1 +1,2 @@
 Idea: keep all course files in Git
+Idea: use branches for new work
